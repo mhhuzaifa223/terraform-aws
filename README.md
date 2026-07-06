@@ -41,8 +41,8 @@ graph TD
 
 **Deploy:**
 ```bash
-git clone https://github.com/mhhuzaifa223/terraform-aws-pet-clinic.git
-cd terraform-aws-pet-clinic
+git clone https://github.com/mhhuzaifa223/terraform-aws.git
+cd terraform-aws
 terraform init
 terraform plan
 terraform apply
